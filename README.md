@@ -1,4 +1,5 @@
 [![Actions Status](https://github.com/github/covid-19-repo-data/workflows/Generate_DB/badge.svg)](https://github.com/github/covid-19-repo-data/actions)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoolmcfunguy%2Fcovid-19-repo-data.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoolmcfunguy%2Fcovid-19-repo-data?ref=badge_shield)
 
 
 # COVID-19 Public Repository Data
@@ -65,3 +66,6 @@ The data and associated documentation in this repo are open data released under 
   - If you extend this dataset, sharing your additions as open data would also be appreciated.
 - If you use this dataset as a starting point for further research which involves accessing and using additional GitHub data, you will need to abide by our [privacy statement](https://help.github.com/en/github/site-policy/github-privacy-statement#public-information-on-github) and related terms.
 - CC0-1.0 does not grant any trademark permissions. GitHub® and its stylized versions and the Invertocat mark are GitHub's Trademarks or registered Trademarks. When using GitHub's logos, be sure to follow the GitHub [logo guidelines](https://github.com/logos).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcoolmcfunguy%2Fcovid-19-repo-data.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcoolmcfunguy%2Fcovid-19-repo-data?ref=badge_large)
